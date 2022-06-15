@@ -1,0 +1,14 @@
+# Python
+**/__pycache__/
+
+# MacOS
+.DS_Store
+
+# Testing
+temp_testing.py
+
+# Training on Cluster
+spartan_training/
+
+# Large Files
+data/
